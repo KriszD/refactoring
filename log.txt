@@ -1,2 +1,4 @@
-266dee3 (HEAD -> 1-task-1, origin/1-task-1) Task 1.1
-4ae5ae9 (origin/main, origin/HEAD, main) Initial commit
+b2ccf98 (HEAD -> main, origin/main, origin/HEAD, origin/3-task-2) Merge pull request #2 from KriszD/1-task-1
+6b450c3 (origin/1-task-1, 1-task-1) Task 1.2
+266dee3 Task 1.1
+4ae5ae9 Initial commit
